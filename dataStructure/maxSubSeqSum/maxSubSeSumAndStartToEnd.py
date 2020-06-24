@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# 计算最大子列和，以及子列和的起始点
 sizeInput = eval(input())
 kArray = input()
 

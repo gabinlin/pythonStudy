@@ -6,6 +6,7 @@ kArray = input()
 def caculateMaxSum(array, k):
     maxSum = 0
     for i in range(k):
+        --k
         for j in range(i, k):
             thisSum = 0
             for h in range(i, j):
